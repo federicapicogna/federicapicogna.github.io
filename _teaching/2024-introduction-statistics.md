@@ -3,7 +3,7 @@ title: "Crash Course: Introduction to Statistics for Data Science in Auditing (P
 collection: teaching
 type: "Master course"
 permalink: /teaching/2024-introduction-statistics
-venue: "University 1, Department"
+venue: "Nyenrode Business Universiteit, Center of Accounting, Auditing & Control"
 date: 2024-09-01
 location: "Breukelen, Netherlands"
 ---
